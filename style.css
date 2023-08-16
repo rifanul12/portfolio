@@ -1,0 +1,36 @@
+.jumbotron {
+  padding-top: 10rem;
+  background-color: #d8a0ef;
+  font-family: "Righteous", cursive;
+}
+
+img {
+  margin-bottom: 1rem;
+}
+
+h1 {
+  margin-top: -1.5rem;
+}
+
+.me h2 {
+  margin-top: -20px;
+}
+
+h2 {
+  font-family: "Righteous", cursive;
+}
+.contact {
+  background-color: #d8a0ef;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.navbar-brand {
+  font-family: "Arizonia", cursive;
+}
+
+.me {
+  font-family: "Righteous", cursive;
+}
